@@ -1,0 +1,16 @@
+#playlist {
+    display:table;
+}
+
+li{
+    cursor: pointer;
+}
+
+#videoarea {
+    float:left;
+    width:640px;
+    height:480px;
+    margin:10px;    
+    border:1px solid silver;
+    cursor: alias;
+}

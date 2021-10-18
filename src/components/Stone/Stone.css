@@ -1,0 +1,26 @@
+.info{
+    text-align: center;
+}
+
+a.ten-bg{
+    color: #0586d0;
+    font-size: 18px;
+    font-family: 'OpenSansBold';
+}
+
+.mota-bg{
+    margin-top: 3px;
+    color: #5b5b5b;
+    font-size: 14px;
+    font-family: 'RobotoRegular';
+}
+
+img{
+    vertical-align: middle;
+    width: 100%;
+    max-width: 100%;
+}
+
+.slick-slide{
+    padding-right: 10px;
+}
